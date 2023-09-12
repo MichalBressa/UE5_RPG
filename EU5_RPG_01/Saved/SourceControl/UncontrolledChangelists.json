@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5_RPG/EU5_RPG_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/Crouh_Walk.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Locomotion/LocomotionBlendspace1D.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/ABP_Character.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
