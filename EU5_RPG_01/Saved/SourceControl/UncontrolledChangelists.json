@@ -8,11 +8,30 @@
 				"D:/UE5_RPG/EU5_RPG_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Locomotion/Idle_Break.uasset",
 				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Locomotion/Walk_Stop.uasset",
-				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/Crouh_Walk.uasset",
 				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/Crouch_Idle.uasset",
 				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Locomotion/LocomotionBlendspace1D.uasset",
 				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/ABP_Character.uasset",
-				"D:/UE5_RPG/EU5_RPG_01/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/UE5_RPG/EU5_RPG_01/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/Crouch_Walk.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/CrouchBlendSpace1D.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Lean/Lean_Left.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Lean/Lean_Right.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Lean/Lean_BS1D.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Walk.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Crouched/CrouchBlendSpace1D.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendspace1D.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/ABP_Character.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/RPG_Character/Animations/Lean/Lean_BS1D.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_01.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_02.uasset",
+				"D:/UE5_RPG/EU5_RPG_01/Content/Characters/Character/Animations/Crouched/Crouh_Walk.uasset"
 			]
 		}
 	]
